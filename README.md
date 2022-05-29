@@ -5,7 +5,10 @@ An Android Library that provides an UI component that renders a Sport.
 # Technologies
 
 Design Pattern/Architecture
-- MVVM (Data Binding)
+- MVVM
+
+UI
+- Jetpack Compose
 
 DI
 - Dagger2
